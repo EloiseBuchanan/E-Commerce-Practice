@@ -1,0 +1,19 @@
+* {
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+/* NAVIGATION */
+
+.nav__links--container {
+    display: flex;
+    justify-content: center;
+}
+
+.nav__link-img {
+    
+}
+
+span {
+    color: rgb(139, 6, 201);
+}
